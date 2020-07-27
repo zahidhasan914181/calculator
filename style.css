@@ -1,0 +1,22 @@
+.calculator{
+    width: 280px;
+    height: auto;
+    margin: 100px auto;
+    padding: 10px;
+    background: #ddd;
+    border: 1px solid #555;
+    border-radius: 5px;
+}
+.main-bar{
+    font-size: 25px;
+    text-align: right;
+}
+.btn{
+    font-size: 22px;
+    cursor: pointer;
+    width: 61px;
+    margin-bottom: 10px;
+}
+.first input{
+    width: 126px;
+}
